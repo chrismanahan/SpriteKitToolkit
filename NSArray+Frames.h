@@ -1,6 +1,5 @@
 //
 //  NSArray+Frames.h
-//  FloppyBunny
 //
 //  Created by Chris Manahan on 2/14/14.
 //  Copyright (c) 2014 Chris Manahan. All rights reserved.

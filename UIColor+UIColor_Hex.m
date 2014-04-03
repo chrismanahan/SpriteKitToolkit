@@ -1,6 +1,5 @@
 //
 //  UIColor+UIColor_Hex.m
-//  DroneRunner
 //
 //  Created by Chris Manahan on 2/13/14.
 //  Copyright (c) 2014 Chris Manahan. All rights reserved.

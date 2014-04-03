@@ -1,6 +1,5 @@
 //
 //  SKLabelNode+TextEffects.m
-//  FloppyBunny
 //
 //  Created by Chris Manahan on 3/10/14.
 //  Copyright (c) 2014 Chris Manahan. All rights reserved.
